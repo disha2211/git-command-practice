@@ -1,1 +1,5 @@
-#empty file
+created a folder 
+created file
+staged the file
+committed file
+pushed it to origin main
