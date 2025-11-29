@@ -1,0 +1,6 @@
+==> I have used the "vim" command to write in the file.
+==> To exit from this editor i am using ":wq"command which will save the content and exit.
+==> w->write(save)
+==> q->exit(quit)
+==> Before that it is required to "Esc".
+
